@@ -260,6 +260,8 @@ export default function WorkspaceScene({ onObjectClick }: WorkspaceSceneProps) {
               <p className="text-purple-400/60 text-xs">
                 Click on objects to explore my portfolio
               </p>
+              <br />
+              <p className="text-purple-300 text-sm font-light tracking-wide mb-2">(This portfolio is a snapshot of earlier work. I’ve since been exploring and experimenting with many new ideas and projects along the way.)</p>
             </motion.div>
           </motion.div>
 
